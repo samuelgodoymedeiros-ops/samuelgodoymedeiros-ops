@@ -29,3 +29,6 @@ Projeto de portfólio pessoal para apresentar meus conhecimentos e projetos na �
 Busco uma oportunidade para entrar na área de tecnologia, continuar aprendendo e contribuir em projetos reais. Tenho interesse em crescer profissionalmente e, no futuro, trabalhar com tecnologia em projetos nacionais e internacionais.
 
 ## 📫 Contato
+
+- GitHub: [samuelgodoymedeiros-ops](https://github.com/samuelgodoymedeiros-ops)to
+- LINKEDIN: https://www.linkedin.com/in/samuelgodoy/
